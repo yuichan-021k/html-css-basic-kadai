@@ -26,6 +26,6 @@ p{
     font-size: 20px;
     text-align: center;
 }
-div {
-        font-weight: bold;
+#basic > p {
+    font-weight: bold;
 }
