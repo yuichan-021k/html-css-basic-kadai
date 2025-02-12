@@ -54,9 +54,6 @@ a:hover {
     color: rgb(245, 178, 168);
 }
 @media screen and (max-width: 780px) {
-    div {
-        display: block;
-    }
     h1{
         font-size: 30px;
     }
@@ -64,6 +61,6 @@ a:hover {
         font-size: 25px;
     }
     #parent {
-        display: block;
+        flex-direction: column;
     } 
 }
