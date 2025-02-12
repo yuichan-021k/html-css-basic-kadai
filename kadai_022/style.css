@@ -53,7 +53,7 @@ a:visited {
 a:hover {
     color: rgb(245, 178, 168);
 }
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 768px) {
     h1{
         font-size: 30px;
     }
